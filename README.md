@@ -58,10 +58,6 @@ Midjourney绘画支持
 
 联系微信：hxgsrubxjogxeeag   
 
-QQ群：
-
-![e1ae4b9c1dd501bc175ec54c5376be6](https://github.com/sfvsfv/chatgpt-plus/assets/62045791/ce0e0d12-a487-437b-ae24-f94787305ac4)
-
 
 
 
