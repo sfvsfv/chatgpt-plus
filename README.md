@@ -1,5 +1,5 @@
 ## 使用 Nestjs 和 Vue3 搭建的 商业化ChatGPT,Midjourney网站
-站点：https://hi.zhangsan.cloud
+站点：https://hi.zhangsan.cloud 自己单独更新了一些功能，和源码有一点出入。开源版本为2.4.2版本。
 ## 功能演示
 ### 首页预览
 ![image](https://github.com/sfvsfv/ChatGPT-PLus/assets/62045791/d7db7171-0de7-4897-a9e2-9e04b238f02b)
