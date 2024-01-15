@@ -54,7 +54,11 @@ Midjourney绘画支持
 </ul>
 
 ## 关于是否有付费更新版本？
-是的，后续我会更新相关插件，后续版本更新的效果见我的网站：https://hi.zhangsan.cloud
+大家可以尽量自己去二开开源版本，个人精力有限，能修改的不多。
+
+后续我会更新相关插件，后续版本更新的效果见我的网站：https://hi.zhangsan.cloud
+
+qq群：897525194
 
 联系微信：hxgsrubxjogxeeag   
 
