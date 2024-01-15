@@ -1,9 +1,7 @@
 ## 使用 Nestjs 和 Vue3 搭建的 商业化ChatGPT,Midjourney网站
 开源版本为2.4.2版本。
-## 部署教程
-pnpm i  安装依赖
-pnpm dev 本地运行
-pnpm run build 打包
+
+
 ## 功能演示
 ### 首页预览
 ![image](https://github.com/sfvsfv/ChatGPT-PLus/assets/62045791/d7db7171-0de7-4897-a9e2-9e04b238f02b)
@@ -57,8 +55,47 @@ Midjourney绘画支持
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> 支持特定用户有权访问4.0API，指定名单访问指定模型</li>
 </ul>
 
+## 部署教程
+
+### 我的开发软件
+
+webstorm
+<img width="229" alt="image" src="https://github.com/sfvsfv/chatgpt-plus/assets/62045791/e3b699fa-5b11-497d-99af-bd78fafe59e2">
+
+
+
+### 依赖安装
+cd到service文件夹，安装模块：
+pnpm i
+同理，cd到chat下
+pnpm i
+同理,admin下
+pnpm i
+
+#### chat和admin配置
+.env.development: http://localhost:9520/api
+
+### 环境
+nodejs version > 16,建议选择：16.19.1
+pnpm version > 6
+mysql version > 5.7，建议直接最新版本就可以
+redis
+
+
+记得配置数据库 ,配置service下.env文件,注意数据库本地环境用户名一般是root～
+
+分别pnpm dev运行,如果配置成功，会自动创建数据表。
+
+
+
+
+
+
+
+
+
 ## 关于是否有付费更新版本？
-大家可以尽量自己去二开开源版本，个人精力有限，能修改的不多。
+大家可以尽量自己去二开开源版本，后续如果我还有更新见下方网站。
 
 后续我会更新相关插件，后续版本更新的效果见我的网站：https://hi.zhangsan.cloud
 
