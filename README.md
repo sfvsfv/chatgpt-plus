@@ -67,35 +67,11 @@ webstorm
 <img width="229" alt="image" src="https://github.com/sfvsfv/chatgpt-plus/assets/62045791/e3b699fa-5b11-497d-99af-bd78fafe59e2">
 
 
-
-### 依赖安装
-cd到service文件夹，安装模块：
-pnpm i
-同理，cd到chat下
-pnpm i
-同理,admin下
-pnpm i
-
-#### chat和admin配置
-.env.development: http://localhost:9520/api
-
 ### 环境
 nodejs version > 16,建议选择：16.19.1
 pnpm version > 6
 mysql version > 5.7，建议直接最新版本就可以
 redis
-
-
-记得配置数据库 ,配置service下.env文件,注意数据库本地环境用户名一般是root～
-
-分别pnpm dev运行,如果配置成功，会自动创建数据表。
-
-
-
-
-
-
-
 
 
 ## 交流群
