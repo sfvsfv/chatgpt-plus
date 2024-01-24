@@ -1,5 +1,7 @@
 ## 完整商业化Chat-GPT系统
-右侧下载安装包，然后就可以一键部署了。
+这里下载最新安装包：
+![image](https://github.com/sfvsfv/chatgpt-plus/assets/62045791/c4ec389c-ca22-4607-b234-4822234f0ea2)
+
 
 功能演示与视频1安装教程：https://www.bilibili.com/video/BV12i4y1i7bH/
 
@@ -96,12 +98,15 @@ redis
 
 
 
-## 关于是否有付费更新版本？
-大家可以尽量自己去二开开源版本，后续如果我还有更新见下方网站。
+## 交流群
 
-后续我会更新相关插件，后续版本更新的效果见我的网站：https://hi.zhangsan.cloud
 
-qq群：897525194
+演示站：
+https://hi.zhangsan.cloud
+
+
+qq群：
+![image](https://github.com/sfvsfv/chatgpt-plus/assets/62045791/d92061a7-22b4-4812-a673-a64ab38b1c53)
 
 
 
