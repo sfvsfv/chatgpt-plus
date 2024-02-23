@@ -83,7 +83,8 @@ https://hi.zhangsan.cloud
 
 qq群：
 
-![image](https://github.com/sfvsfv/chatgpt-plus/assets/62045791/d92061a7-22b4-4812-a673-a64ab38b1c53)
+![image](https://github.com/sfvsfv/chatgpt-plus/assets/62045791/80990249-5fd2-4c11-9c7f-6b88504b0efb)
+
 
 
 
