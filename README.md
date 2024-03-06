@@ -78,7 +78,7 @@ redis
 
 
 演示站：
-https://hi.zhangsan.cloud
+[https://hi.zhangsan.cloud](https://hi.zhangsan.shop/)
 
 
 qq群：
