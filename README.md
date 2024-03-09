@@ -39,7 +39,7 @@ Midjourney绘画支持
 <ul class="contains-task-list">
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> 支持邮件激活账号</li>
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> 支持上下文对话</li>
-  <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> 支持文件分析，图片分析</li>
+  <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> 支持GPT4,claude3文件分析，图片分析</li>
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> 支持微信登录</li>
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> 精准统计绘画token、记录所有用户消费排行</li>
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> 支持模糊匹配自定义回复消息</li>
@@ -78,7 +78,7 @@ redis
 
 
 演示站：
-[https://hi.zhangsan.cloud](https://hi.zhangsan.shop/)
+https://hi.zhangsan.shop/chat
 
 
 qq群：
