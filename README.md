@@ -81,7 +81,8 @@ redis
 https://hi.zhangsan.shop/chat
 
 
-qq群：
+qq群：897525194
+
 
 ![image](https://github.com/sfvsfv/chatgpt-plus/assets/62045791/80990249-5fd2-4c11-9c7f-6b88504b0efb)
 
