@@ -1,3 +1,7 @@
+开源版本源码在这里下载：
+![image](https://github.com/sfvsfv/chatgpt-plus/assets/62045791/a0919b88-2bd8-4ac0-96b7-70a1efbe1ac1)
+
+
 ## 完整商业化Chat-GPT系统
 这里下载最新安装包：
 ![image](https://github.com/sfvsfv/chatgpt-plus/assets/62045791/c4ec389c-ca22-4607-b234-4822234f0ea2)
