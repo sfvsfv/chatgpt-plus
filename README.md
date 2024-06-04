@@ -68,6 +68,7 @@ Midjourney绘画支持
 ### 我的开发软件
 
 webstorm
+
 <img width="229" alt="image" src="https://github.com/sfvsfv/chatgpt-plus/assets/62045791/e3b699fa-5b11-497d-99af-bd78fafe59e2">
 
 
@@ -82,7 +83,7 @@ redis
 
 
 演示站：
-[https://hi.zhangsan.shop/chat](https://chat.mosha.cloud/app-store)
+[https://chat.mosha.cloud/app-store](https://chat.mosha.cloud/app-store)
 
 
 
