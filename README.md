@@ -82,10 +82,10 @@ redis
 
 
 演示站：
-https://hi.zhangsan.shop/chat
+[https://hi.zhangsan.shop/chat](https://chat.mosha.cloud/app-store)
 
 
-qq群：952889979
+
 
 
 
